@@ -1,4 +1,4 @@
-a=input()
+a=int(input())
 def f(a):
      if a<=2:
              return a-1
