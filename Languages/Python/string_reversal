@@ -1,0 +1,4 @@
+def string_reverse(s):
+    return s[::-1]
+    
+#Lets Merge this pull request
