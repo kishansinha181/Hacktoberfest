@@ -5,6 +5,6 @@ def f1(a):
      for i in range(2,a):
              f.append(f[i-1]+f[i-2])
      return f[a-1]
-a=input()
+a=int(input())
 print(f1(a))
 #this program prints nth fibonacci number using loops
